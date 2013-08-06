@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="com.ayanray.loaders.AssetLoader"/>
+<classEntry path="com.ayanray.loaders.AssetLoaderSettings"/>
+<classEntry path="com.ayanray.loaders.AssetLoaderTypes"/>
+<classEntry path="com.ayanray.loaders.handlers.BaseLoader"/>
+<classEntry path="com.ayanray.loaders.handlers.ILoader"/>
+<classEntry path="com.ayanray.loaders.handlers.ImageLoader"/>
+<classEntry path="com.ayanray.loaders.handlers.SoundLoader"/>
+<classEntry path="com.ayanray.loaders.handlers.TextLoader"/>
+<classEntry path="com.ayanray.loaders.handlers.VideoLoader"/>
+<classEntry path="com.ayanray.loaders.handlers.XmlLoader"/>
+<classEntry path="com.ayanray.utils.getExtension"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>

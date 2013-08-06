@@ -1,0 +1,14 @@
+Change Log
+----------------------------------------------
+[+] 2009-08-15-> Cleaned up code so that all function callers receive obj.event rather than obj.e and sometimes obj.event... grr.. maintained backward compatibility though.
+				Also, if the function receives an error, it receives obj.error now instead of obj.e again... grr.
+
+[+] 2009-08-11-> Added Video Support, added flex unit 4 tests, added general Async tests (which will be moved to flex unit 4 when I learn it better)
+
+[+] 2009-07-27 -> Moved AssetLoader to Google Docs and create Flex Lib Project and auto ASDocs generation 
+
+[+] 2009-02-14 -> Made a MAJOR BUG FIX that caused the loading to halt when it reaches the end of loading at the same time as adding another item
+
+[+] 2009-01-20 -> Added MP3 Support with Sound Class + Fixed Bug while using AssetLoaderTypes.filetype for discrete use of images
+
+[+] 2008-22-08 -> Some memory leaks were discovered and soon thereafter fixed

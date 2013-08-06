@@ -1,0 +1,10 @@
+BUGS
+==============================
+SoundTest 
+	- WAV does not work
+	
+	
+TODO
+==============================
+1) Video Test!
+	
